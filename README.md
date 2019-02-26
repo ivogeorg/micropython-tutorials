@@ -18,9 +18,9 @@
 
 ## Submission
 
-1. Add files. Git-add them, too.
-2. Commit your changes.
-3. Push to remote before the deadline.
+1. Add files. git-add them, too.
+2. git-commit your changes.
+3. git-push to remote before the deadline.
 
 ## Note
 
