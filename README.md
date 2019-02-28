@@ -24,8 +24,9 @@
 
 ## Note
 
-1. You cannot write MicroPython in PyCharm. Use it only as a repository view for the assignment.
-2. To write MicroPython for the micro:bit, you have the following options:
+1. You need a micro:bit device to complete this assignment. They are provided in class but consider purchasing your own (e.g. from [Sparkfun](https://www.sparkfun.com/products/14336)) so that you can work when not in class.
+2. You cannot execute MicroPython in PyCharm, though you can use it for the _syntax highlighting_ and as a repository view for the assignment.
+3. To be able to flash your micro:bit with the HEX file of your MicroPython programs, you have the following options:
    - online, in the browser https://python.microbit.org/v/1.1
    - online, in the browser https://codewith.mu/
    - locally, on your computer, downloading and installing https://codewith.mu/en/download 
