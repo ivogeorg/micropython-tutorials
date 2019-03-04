@@ -16,6 +16,7 @@ A quick guide to programming the micro:bit and saving your work on Github. This 
 
    display.scroll("Hello, World!")
    ```
+   _**Note:** PyCharm will underline the package name `microbit` with a red squiggle, and, if you hover your mouse over it, it will report that it cannot resolve the reference. That's correct. You can't use PyCharm to flash the micro:bit, anyway, so not being able to resolve the library (package, in Python speak) is moot. Keep reading._
 
 ## The mu editor
 1. Open the mu editor.
