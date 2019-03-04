@@ -30,7 +30,7 @@ A quick guide to programming the micro:bit and saving your work on Github. This 
 2. Wait for the code to be converted to HEX and flashed to the ROM of the micro:bit device. The yellow reset LED on the back keeps flashing while this is being done, and stops when the process is complete. _**Note:** The micro:bit automatically resets the USB connection upon being flashed, which might result in your computer putting up an error message "Disk Not Ejected Properly". Don't worry about it. This is as it should be._
 3. Your program starts executing right away, in this case scrolling *Hellow, World!* once.
 
-## Wriring code
+## Writing code
 1. Modify the code in the mu editor. For example:
    ```Python
    from microbit import *
@@ -42,4 +42,4 @@ A quick guide to programming the micro:bit and saving your work on Github. This 
 
 ## Saving your work
 1. Since you opened the file from the local git repository, you will see the changes in PyCharm.
-2. *git-commit* and *git-push* your changes to your remote.
+2. *git-commit* and *git-push* your changes to your remote repository on Github, which should be your fork of the assignment repository.
