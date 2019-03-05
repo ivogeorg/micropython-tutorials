@@ -1,3 +1,3 @@
 from microbit import *
 
-display.scroll("Hello, MicroPython!")
+display.scroll("Hello, MicroPython Tutorials!")
